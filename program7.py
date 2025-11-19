@@ -23,3 +23,6 @@ minimum = min(marks)
 
 print("Total =", total)
 print("Average =", average)
+print("Maximum value =", maximum)
+print("Minimum value =", minimum)
+print("Maximum – Minimum =", maximum - minimum)
